@@ -26,16 +26,16 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 ## SOS2021-01
 
 - **Team**
-  - Juan Buitrago Ruiz https://github.com/19juaniyo99
-  - Lucia Castro Perez 
-  - Abraham Corta Ramirez 
+  - [Juan Buitrago Ruiz](https://github.com/19juaniyo99)
+  - [Lucia Castro Perez]()
+  - [Abraham Corta Ramirez](https://github.com/AbramsM1A2) 
 - **Project description**:
 - **Repository**: [gti-sos/SOS2021-01]( https://github.com/gti-sos/SOS2021-01 )
-- **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
+- **URL**: [http://sos2021-01.herokuapp.com](http://sos2021-01.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos2021-01.herokuapp.com/api/v1/divorce/docs](https://sos2021-01.herokuapp.com/api/v1/divorce/docs) (developed by [Juan Buitrago Ruiz](https://github.com/19juaniyo99))
+    - [https://sos2021-01.herokuapp.com/api/v1/life/docs](https://sos2021-01.herokuapp.com/api/v1/life/docs) (developed by [Lucia Castro Perez](https://github.com/404))
+    - [https://sos2021-01.herokuapp.com/api/v1/natality/docs](https://sos2021-01.herokuapp.com/api/v1/natality/docs) (developed by [Abraham Corta Ramírez](https://github.com/AbramsM1A2))
 
 # SOS2021-22
 - **Team**
