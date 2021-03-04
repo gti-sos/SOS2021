@@ -64,7 +64,6 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Alica Pérez Bolaños)
  
 ## SOS1920-09
-
 - **Team**
   - [Adrian Roman Fernandez](https://github.com/Adrirofer)
   - [Student 2](https://github.com/404)
