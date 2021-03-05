@@ -79,7 +79,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 	- [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 4](https://github.com/404))
 
-## SOS1920-04
+## SOS2021-04
 
 - **Team**
   - [Manuel González Regadera](https://github.com/mangonreg)
