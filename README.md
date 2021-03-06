@@ -84,14 +84,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Team**
   - [Manuel González Regadera](https://github.com/mangonreg)
   - [Javier Carmona Andrés](https://github.com/JavierCarmona16)
-  - [Student 3](https://github.com/404)
+  - [Miguel Gómez Vázquez](https://github.com/migueclon98)
 - **Project description**: Relación entre tasa de alfabetización, gasto público en educación e índice de pobreza en diversos países por años ¿Podría un incremento del gasto educativo de un país reducir los índices de analfabetismo de su población? ¿Existe una relación directa entre la pobreza y la falta de estudios?
 - **Repository**: [gti-sos/SOS2021-04](https://github.com/gti-sos/SOS2021-04)
 - **URL**: [http://sos2021-04.herokuapp.com](http://sos2021-04.herokuapp.com)
 -  **APIs**:
     - [https://sos2021-04.herokuapp.com/api/v1/education_expenditure/docs](https://sos2021-04.herokuapp.com/api/v1/education_expenditure/docs) (developed by [Manuel González Regadera](https://github.com/mangonreg))
     - [https://sos2021-04.herokuapp.com/api/v1/risk_poverty/docs](https://sos2021-00.herokuapp.com/api/v1/risk_poverty/docs) (developed by [Javier Carmona Andrés](https://github.com/JavierCarmona16))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos2021-00.herokuapp.com/api/v1/illiteracy_rate/docs](https://sos2021-00.herokuapp.com/api/v1/illiteracy_rate/docs) (developed by [Miguel Gómez Vázquez](https://github.com/migueclon98))
     
 ## SOS2021-24
 
