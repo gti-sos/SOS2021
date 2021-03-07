@@ -136,3 +136,15 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
+    ## SOS2021-08
+
+- **Team**
+  - [Juan Vega Seco](https://github.com/jhonvi2)
+  - [Antonioo Carranza ](https://github.com/404)
+  - [Antonio Silva](https://github.com/404)
+- **Project description**: Proyecto del grupo 08
+- **Repository**: [gti-sos/SOS2021-08](https://github.com/gti-sos/SOS2021-08)
+- **URL**: 
+-  **APIs**:
+
+
