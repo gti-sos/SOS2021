@@ -147,5 +147,11 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **URL**: 
 -  **APIs**:
 
-
-
+## SOS2021-21
+- **Team**
+	- [Youssef Lakouifat Darkaoui] (https://github.com/youssefld)
+	- [Paula Leal Salvago] (https://github.com/pauleasal)
+	- [Alejandro Solís Mercado] (https://github.com/Alesolmer)
+- **Project description**: Analyze the number of fires in relation to climate change and temperature variation in different countries around the world.
+- **Repository**: [SOS2021/SOS2021-21] (https://github.com/gti-sos/SOS2021-21)
+- **URL**: [TBD](#)
