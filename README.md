@@ -170,3 +170,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Javier García Herrera](https://github.com/Jota0Garcia))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
+
+## SOS2021-07
+
+- Team
+  - [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
+  - [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
+  - [Nuria Escamilla Torres](https://github.com/nuresctor)
+- Project description:  relationship of poor health habits that have unfortunately led to obesity, with the existence of bipolar or depressive moods and performance at work
+- Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
+- URL: 
+-  APIs:
