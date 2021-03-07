@@ -160,13 +160,13 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
   - [Humberto Garcia Martinez](https://github.com/humgarmar)
-  - [Javier Garcia Herrera](https://github.com/J0Garcia)
+  - [Javier Garcia Herrera](https://github.com/Jota0Garcia)
   - [Student 3](https://github.com/404)
 - **Project description**:  En nuestro grupo analizaremos la situación económica de los habitantes en diferentes provincias españolas con el objetivo de poder relacionar este factor con la evolución en la actividad de juegos de azar y apuestas ¿aumentan o disminuyen según el nivel económico, se apuesta más cantidad o menos? y con el nivel de suicidios, donde la participación en las apuestas puede ser un factor clave para estos.
 - **Repository**: [gti-sos/SOS2021-27](https://github.com/gti-sos/SOS2021-27)
 - **URL**: [http://sos2021-27.herokuapp.com](http://sos2021-27.herokuapp.com)
 -  **APIs**:
     - [https://sos2021-27.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Humberto Garcia](https://github.com/humgarmar))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Javier García Herrera](https://github.com/404))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
