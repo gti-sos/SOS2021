@@ -147,16 +147,15 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **URL**: 
 -  **APIs**:
 
-<<<<<<< HEAD
 ## SOS2021-21
 - **Team**
-	- [Youssef Lakouifat Darkaoui] (https://github.com/youssefld)
-	- [Paula Leal Salvago] (https://github.com/pauleasal)
-	- [Alejandro Solís Mercado] (https://github.com/Alesolmer)
+	- [Youssef Lakouifat Darkaoui](https://github.com/youssefld)
+	- [Paula Leal Salvago](https://github.com/pauleasal)
+	- [Alejandro Solís Mercado](https://github.com/Alesolmer)
 - **Project description**: Analyze the number of fires in relation to climate change and temperature variation in different countries around the world.
-- **Repository**: [SOS2021/SOS2021-21] (https://github.com/gti-sos/SOS2021-21)
+- **Repository**: [SOS2021/SOS2021-21](https://github.com/gti-sos/SOS2021-21)
 - **URL**: [TBD](#)
-=======
+
 ## SOS1920-27
 
 - **Team**
@@ -171,4 +170,3 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
->>>>>>> b87b650cda756cf12c87904cde2cdd9039511087
