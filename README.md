@@ -140,11 +140,12 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
   - [Juan Vega Seco](https://github.com/jhonvi2)
-  - [Antonioo Carranza ](https://github.com/404)
-  - [Antonio Silva](https://github.com/404)
-- **Project description**: Proyecto del grupo 08
+  - [Antonio Carranza Barroso](https://github.com/carran97)
+  - [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+- **Project description**: Proyecto con datos y estadísticas del COVID-19 a nivel mundial.
 - **Repository**: [gti-sos/SOS2021-08](https://github.com/gti-sos/SOS2021-08)
 - **URL**: 
 -  **APIs**:
+
 
 
