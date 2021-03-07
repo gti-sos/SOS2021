@@ -65,8 +65,8 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
  
 ## SOS1920-09
 - **Team**
-  - [Adrian Roman Fernandez](https://github.com/Adrirofer)
-  - [Student 2](https://github.com/404)
+  - [Adrian Roman Fernández](https://github.com/Adrirofer)
+  - [Francisco José Fernández Blanco](https://github.com/franfdezb)
   - [Student 3](https://github.com/404)
   - [Student 4](https://github.com/404)
 - **Project description**: We are going to study the relationship between the performance of the degree students by center at University of Seville and their cut-off-marks, also checking the surrender rate of the dregrees at that center and the budget assigned from the University of Seville at that center between a range of years. More investment or better cut-of-marks means better performance? 
