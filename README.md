@@ -1,4 +1,4 @@
-gitService Oriented Systems (Sistemas Orientados a Servicios) 2020/2021 at the [University of Sevilla](https://www.us.es)
+Service Oriented Systems (Sistemas Orientados a Servicios) 2020/2021 at the [University of Sevilla](https://www.us.es)
 ====================
 
 Lecturers:
@@ -63,12 +63,12 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-2/docs (developed by Almudena González López de Letona)
   - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Alica Pérez Bolaños)
  
-## SOS1920-09
+## SOS2021-09
 - **Team**
   - [Adrian Roman Fernández](https://github.com/Adrirofer)
   - [Francisco José Fernández Blanco](https://github.com/franfdezb)
   - [Carlos González Arenas](https://github.com/cargonare1)
-  - [Student 4](https://github.com/404)
+  - [Daniel Sesé Benjumea](https://github.com/Wocanilo)
 - **Project description**: We are going to study the relationship between the performance of the degree students by center at University of Seville and their cut-off-marks, also checking the surrender rate of the dregrees at that center and the budget assigned from the University of Seville at that center between a range of years. More investment or better cut-of-marks means better performance? 
 - **Repository**: [gti-sos/SOS2021-09](https://github.com/gti-sos/SOS2021-09)
 - **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
@@ -77,7 +77,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Adrian Roman Fernandez](https://github.com/Adrirofer))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Francisco José Fernández Blanco](https://github.com/franfdezb))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Carlos González Arenas](https://github.com/cargonare1))
-	- [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 4](https://github.com/404))
+	- [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Daniel Sesé Benjumea](https://github.com/Wocanilo))
 
 ## SOS2021-04
 
