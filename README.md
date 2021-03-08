@@ -186,7 +186,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
   - [Student 1](https://github.com/404)
-  - [Student 2](https://github.com/404)
+  - [José Carlos Torres Moreno](https://github.com/secaasecas)
   - [Antonio Maiquez Marin](https://github.com/gti-sos/SOS2021-23/commits?author=Jackman97)
   - [Eduardo Carmona](https://github.com/Beelthazad)
 - **Project description**: Our aim is to analyze the relationship between drug use, videogame use, mental health & unemployment at a global scale.
@@ -229,17 +229,3 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-30.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Juan Pedro Hurtado Masero](https://github.com/Juanpepitt))
     - [https://sos2021-30.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Jesús Ruiz Domínguez](https://github.com/jesruidom))
     - [https://sos2021-30.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Victor Caballero Sánchez](https://github.com/vic3214))
-	
-## SOS1920-03
-
-- **Team**
-  - [Joan Villalonga Alvaro](https://github.com/joavilalv)
-  - [Student 2](https://github.com/404)
-  - [Student 3](https://github.com/404)
-- **Project description**: Nuestras fuentes de información están orientadas a analizar la relación que existe entre como la calidad de vida puede influenciar al turismo y este ver si al viajar más, es decir, se usan más transportes, hace que aumente la contaminación del aire y las muertes que esto conlleva.
-- **Repository**: [gti-sos/SOS2021-03](https://github.com/gti-sos/SOS2021-03.git)
-- **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
--  **APIs**:
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Joan Villalonga Alvaro](https://github.com/joavilalv))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
