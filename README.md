@@ -177,7 +177,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
   - [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
   - [Nuria Escamilla Torres](https://github.com/nuresctor)
-- Project description:  relationship of poor health habits that have unfortunately led to obesity, with the existence of bipolar or depressive moods and performance at work
+- Project description:  relationship of poor health habits that have unfortunately led to obesity, with the existence of bipolar or depressive moods and performance at work.
 - Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
 - URL: 
 -  APIs:
