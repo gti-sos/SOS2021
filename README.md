@@ -108,6 +108,18 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Ignacio Roldán Torres](https://github.com/juaroltor))
 
 
+## SOS2021-25
+- **Team**
+  - [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ)
+  - [Student 2](https://github.com/404)
+  - [Student 3](https://github.com/404)
+- **Project description**: My awesome project
+- **Repository**: [gti-sos/SOS2021-25](https://github.com/gti-sos/SOS2021-25)
+- **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
+-  **APIs**:
+    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ))
+    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 ## SOS2021-28
 
 - **Team**
