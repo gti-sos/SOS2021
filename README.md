@@ -187,7 +187,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Team**
   - [Student 1](https://github.com/404)
   - [Student 2](https://github.com/404)
-  - [Student 3](https://github.com/404)
+  - [Antonio Maiquez Marin](https://github.com/gti-sos/SOS2021-23/commits?author=Jackman97)
   - [Eduardo Carmona](https://github.com/Beelthazad)
 - **Project description**: Our aim is to analyze the relationship between drug use, videogame use, mental health & unemployment at a global scale.
 - **Repository**: [gti-sos/SOS2021-23](https://github.com/gti-sos/SOS2021-23)
