@@ -153,7 +153,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - *Team*
   - [Joan Villalonga Alvaro](https://github.com/joavilalv)
   - [Paula Garrido Lerma](https://github.com/Paula0008)
-  - [Student 3](https://github.com/404)
+  - [Student 3](https://github.com/AymanAlaouiMhammedi)
 - *Project description*: Nuestras fuentes de información están orientadas a analizar la relación que existe entre como la calidad de vida puede influenciar al turismo y este ver si al viajar más, es decir, se usan más transportes, hace que aumente la contaminación del aire y las muertes que esto conlleva.
 - *Repository*: [gti-sos/SOS2021-03](https://github.com/gti-sos/SOS2021-03.git)
 - *URL*: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
