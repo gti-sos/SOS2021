@@ -115,7 +115,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [José María de Soto Oncins](https://github.com/PepeDeSoto)
 - **Project description**: My awesome project
 - **Repository**: [gti-sos/SOS2021-25](https://github.com/gti-sos/SOS2021-25)
-- **URL**: [http://sos2021-25.herokuapp.com](http://sos2021-00.herokuapp.com)
+- **URL**: [http://sos2021-25.herokuapp.com](http://sos2021-25.herokuapp.com)
 -  **APIs**:
     - [https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ))
     - [https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Antonio Javier Palma Guerrero](https://github.com/ajpalma28))
