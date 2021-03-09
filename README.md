@@ -196,7 +196,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 -  **APIs**:
     - [https://sos2021-27.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Humberto Garcia](https://github.com/humgarmar))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Javier García Herrera](https://github.com/Jota0Garcia))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Fernando Nuevo Jiménez](https://github.com/FerNueJim))
 
 
 ## SOS2021-07
