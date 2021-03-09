@@ -261,7 +261,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
 
-  -[Iván Martín Jiménez](https://github.com/ivanmartinsk)
+  - [Iván Martín Jiménez](https://github.com/ivanmartinsk)
   - [Manuel Sanchez López](https://github.com/manu261998)
   - [José Antonio Megías Macías](https://github.com/josanmegias)
 - **Project description**: Research on attacks, homicides caused by guns and firearms sold in recent years in the US
