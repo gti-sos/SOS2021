@@ -187,8 +187,10 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Team**
   - [Humberto Garcia Martinez](https://github.com/humgarmar)
   - [Javier Garcia Herrera](https://github.com/Jota0Garcia)
-  - [Student 3](https://github.com/404)
-- **Project description**:  En nuestro grupo analizaremos la situación económica de los habitantes en diferentes provincias españolas con el objetivo de poder relacionar este factor con la evolución en la actividad de juegos de azar y apuestas ¿aumentan o disminuyen según el nivel económico, se apuesta más cantidad o menos? y con el nivel de suicidios, donde la participación en las apuestas puede ser un factor clave para estos.
+  - [Fernando Nuevo Jiménez](https://github.com/FerNueJim)
+- **Project description**:  Analyze the economic situation of the population from the different Spanish provinces in order to achieve a relationship between this economic situation and the evolution of gambling.
+- 
+-En nuestro grupo analizaremos la situación económica de los habitantes en diferentes provincias españolas con el objetivo de poder relacionar este factor con la evolución en la actividad de juegos de azar y apuestas ¿aumentan o disminuyen según el nivel económico, se apuesta más cantidad o menos? y con el nivel de suicidios, donde la participación en las apuestas puede ser un factor clave para estos.
 - **Repository**: [gti-sos/SOS2021-27](https://github.com/gti-sos/SOS2021-27)
 - **URL**: [http://sos2021-27.herokuapp.com](http://sos2021-27.herokuapp.com)
 -  **APIs**:
