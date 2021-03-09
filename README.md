@@ -247,7 +247,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Juan Pedro Hurtado Masero](https://github.com/Juanpepitt)
   - [Jesús Ruiz Domínguez](https://github.com/jesruidom)
   - [Victor Caballero Sánchez](https://github.com/vic3214)
-- **Project description**: la relación entre la calidad de vida inducida por los factores de consumo de alcohol y tabaco, el índice de masa corporal y la esperanza de vida al nacer según la región de España en los últimos años, ¿influye el imc o el consumo de alcohol y tabaco en la evolución de la esperanza de vida?¿Influye la situación geográfica, edad, género en el consumo de alcohol y tabaco?
+- **Project description**: La relación entre la calidad de vida inducida por los factores de consumo de alcohol y tabaco, el índice de masa corporal y la esperanza de vida al nacer según la región de España en los últimos años, ¿influye el imc o el consumo de alcohol y tabaco en la evolución de la esperanza de vida?¿Influye la situación geográfica, edad, género en el consumo de alcohol y tabaco?
 - **Repository**: [gti-sos/SOS2021-30](https://github.com/gti-sos/SOS2021-30)
 - **URL**: [http://sos2021-30.herokuapp.com](http://sos2021-30.herokuapp.com)
 -  **APIs**:
