@@ -54,14 +54,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Team**
   - [Antonio José Díaz González](https://github.com/AntonioJoseDiaz)
   - [Almudena González López de Letona](https://github.com/almgonlop)
-  - [Alica Pérez Bolaños](https://github.com/aliperbol)
-- **Project description**: Grupos de musica con mas grammys en la historia de los premios
+  - [Alicia Pérez Bolaños](https://github.com/aliperbol)
+- **Project description**: 
 - **Repository** [gti-sos/SOS2021-10](https://github.com/gti-sos/SOS2021-10) 
 - **URL**: http://sos2021-10.herokuapp.com
 - **APIs**:
   - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-1/docs (developed by Antonio José Díaz González)
   - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-2/docs (developed by Almudena González López de Letona)
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Alica Pérez Bolaños)
+  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Alicia Pérez Bolaños)
  
 ## SOS2021-09
 - **Team**
