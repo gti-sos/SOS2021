@@ -55,7 +55,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Antonio José Díaz González](https://github.com/AntonioJoseDiaz)
   - [Almudena González López de Letona](https://github.com/almgonlop)
   - [Alicia Pérez Bolaños](https://github.com/aliperbol)
-- **Project description**: 
+- **Project description**: Analysis of the relation between the obesity, the consumption of different types of food and the global health service.
 - **Repository** [gti-sos/SOS2021-10](https://github.com/gti-sos/SOS2021-10) 
 - **URL**: http://sos2021-10.herokuapp.com
 - **APIs**:
