@@ -204,7 +204,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
   - [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
   - [Nuria Escamilla Torres](https://github.com/nuresctor)
-- Project description:  relationship of poor health habits that have unfortunately led to obesity, with the existence of bipolar or depressive moods and performance at work.
+- Project description:  Our intention is to relate the purchase and sale of housing with the rental prices in the different locations and their relationship with unemployment to see how the increase in unemployment affects the price and situation of the other two data variables.
 - Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
 - URL: 
 -  APIs:
@@ -216,7 +216,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [José Carlos Torres](https://github.com/secaasecas)
   - [Antonio Maiquez Marin](https://github.com/Jackman97)
   - [Eduardo Carmona](https://github.com/Beelthazad)
-- **Project description**: Our intention is to relate the purchase and sale of housing with the rental prices in the different locations and their relationship with unemployment to see how the increase in unemployment affects the price and situation of the other two data variables.
+- **Project description**: 
 - **Repository**: [gti-sos/SOS2021-23](https://github.com/gti-sos/SOS2021-23)
 - **URL**: [http://sos2021-23.herokuapp.com](http://sos2021-23.herokuapp.com)
 -  **APIs**:
