@@ -216,7 +216,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [José Carlos Torres](https://github.com/secaasecas)
   - [Antonio Maiquez Marin](https://github.com/Jackman97)
   - [Eduardo Carmona](https://github.com/Beelthazad)
-- **Project description**: 
+- **Project description**: Our aim is to analyze the relationship between drug use,HDI, mental health & unemployment at a global scale.
 - **Repository**: [gti-sos/SOS2021-23](https://github.com/gti-sos/SOS2021-23)
 - **URL**: [http://sos2021-23.herokuapp.com](http://sos2021-23.herokuapp.com)
 -  **APIs**:
