@@ -275,7 +275,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Team**
   - [Jorge Marin Cordero](https://github.com/JorgeMarinC)
   - [Alvaro Caro Jimenez](https://github.com/alvcarjim1)
-  - [Student 3](https://github.com/404)
+  - [Jesús Guerra Adame](https://github.com/jesgueada)
 - **Project description**: My awesome project
 - **Repository**: [gti-sos/SOS2021-20](https://github.com/gti-sos/SOS2021-20)
 - **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
