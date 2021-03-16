@@ -298,3 +298,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+
+## SOS2021-29
+
+- **Team**
+  - [Jose Luis Ruiz Monge](https://github.com/celu)
+  - [Jose Felipe Ramos Molinero](https://github.com/jfeliperamos)
+  - [Bruno Alvaro Rico Barrilero](https://github.com/brico1994)
+- **Project description**: Our target is to focus on analyzing the relationship between deaths by different diseases, employment activity and behavior of the housing market in the different provinces of Andalusia between the years of 2005-2018.
+- **Repository**: [gti-sos/SOS2021-29](https://github.com/gti-sos/SOS2021-29)
+- **URL**: 
+-  **APIs**:
