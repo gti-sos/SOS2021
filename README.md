@@ -27,7 +27,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
   - [Juan Buitrago Ruiz](https://github.com/19juaniyo99)
-  - [Lucia Castro Perez]()
+  - [Lucia Castro Perez](https://github.com/Lucia2712)
   - [Abraham Corta Ramirez](https://github.com/AbramsM1A2) 
 - **Project description**: Global analysis of the years 2018-2019 and the existing relationship between: the number of births, divorce rate and quality of life per citizen.
 - **Repository**: [gti-sos/SOS2021-01]( https://github.com/gti-sos/SOS2021-01 )
