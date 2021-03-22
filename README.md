@@ -206,8 +206,9 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Nuria Escamilla Torres](https://github.com/nuresctor)
 - Project description:  Our intention is to relate the purchase and sale of housing with the rental prices in the different locations and their relationship with unemployment to see how the increase in unemployment affects the price and situation of the other two data variables.
 - Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
-- URL: 
+- URL: https://sos2021-07.herokuapp.com/
 -  APIs:
+
 
 ## SOS2021-23
 
