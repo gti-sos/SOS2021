@@ -143,9 +143,9 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Repository**: [gti-sos/SOS2021-02](https://github.com/gti-sos/SOS2021-02)
 - **URL**: [http://sos2021-02.herokuapp.com](http://sos2021-02.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Manuel González Domínguez](https://github.com/jgonzalezal37))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Fernandez Baena](https://github.com/alefdz98))
+    - [https://sos2021-02.herokuapp.com/api/v1/nuts-production-stats](https://sos2021-02.herokuapp.com/api/v1/nuts-production-stats) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
+    - [https://sos2021-02.herokuapp.com/api/v1/oil-production-stats](https://sos2021-02.herokuapp.com/api/v1/oil-production-stats) (developed by [José Manuel González Domínguez](https://github.com/jgonzalezal37))
+    - [https://sos2021-02.herokuapp.com/api/v1/wine-production-stats](https://sos2021-02.herokuapp.com/api/v1/wine-production-stats) (developed by [Alejandro Fernandez Baena](https://github.com/alefdz98))
 	
 ## SOS1920-03
 
