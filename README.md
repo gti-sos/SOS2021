@@ -237,10 +237,10 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Repository**: [gti-sos/SOS2021-11](https://github.com/gti-sos/SOS2021-11)
 - **URL**: [http://sos2021-11.herokuapp.com](http://sos2021-11.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Ana Romero Caceres](https://github.com/anaromero99))
-    - [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Jose Pablo Carrasco Cobos](https://github.com/EsDeSepa))
-    - [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Juan Diez Blanco](https://github.com/jdblanco))
-	- [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Miriam Campano Crespo](https://github.com/Mirishya))
+    - [https://sos2021-11.herokuapp.com/api/v1/stress-stats](https://sos2021-11.herokuapp.com/api/v1/stress-stats) (developed by [Ana Romero Caceres](https://github.com/anaromero99))
+    - [https://sos2021-11.herokuapp.com/api/v1/anxiety-stats](https://sos2021-11.herokuapp.com/api/v1/anxiety) (developed by [Jose Pablo Carrasco Cobos](https://github.com/EsDeSepa))
+    - [https://sos2021-11.herokuapp.com/api/v1/depression-stats](https://sos2021-11.herokuapp.com/api/v1/depression-stats) (developed by [Juan Diez Blanco](https://github.com/jdblanco))
+	- [https://sos2021-11.herokuapp.com/api/v1/smoking-stats](https://sos2021-11.herokuapp.com/api/v1/smoking-stats) (developed by [Miriam Campano Crespo](https://github.com/Mirishya))
 	 
 ## SOS2021-30
 
