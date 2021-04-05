@@ -74,10 +74,10 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **URL**: [http://sos2021-09.herokuapp.com](http://sos2021-09.herokuapp.com)
 
 -  **APIs**:
-    - [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Adrian Roman Fernandez](https://github.com/Adrirofer))
-    - [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Francisco José Fernández Blanco](https://github.com/franfdezb))
+    - [https://sos2021-09.herokuapp.com/api/v1/budgets-by-centers-us/loadInitalData](https://sos2021-09.herokuapp.com/api/v1/budgets-by-centers-us/docs) (developed by [Adrian Roman Fernandez](https://github.com/Adrirofer))
+    - [https://sos2021-09.herokuapp.com/api/v1/cut-off-marks-by-degrees-us/loadInitalData](https://sos2021-09.herokuapp.com/api/v1/cut-off-marks-by-degrees-us/docs) (developed by [Francisco José Fernández Blanco](https://github.com/franfdezb))
     - [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Carlos González Arenas](https://github.com/cargonare1))
-	- [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Daniel Sesé Benjumea](https://github.com/Wocanilo))
+	- [https://sos2021-09.herokuapp.com/api/v1/performances-by-degrees-us/loadInitalData](https://sos2021-09.herokuapp.com/api/v1/performances-by-degrees-us/docs) (developed by [Daniel Sesé Benjumea](https://github.com/Wocanilo))
 
 ## SOS2021-04
 
