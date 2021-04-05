@@ -207,8 +207,8 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - Project description:  Our intention is to relate the purchase and sale of housing with the rental prices in the different locations and their relationship with unemployment to see how the increase in unemployment affects the price and situation of the other two data variables.
 - Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
 - URL: https://sos2021-07.herokuapp.com/
--  APIs:
-    [https://sos2021-07.herokuapp.com/api/v1/rentals](https://sos2021-07.herokuapp.com/api/v1/rentals) (developed by [Francisco Miguel Tristán Clavijo](https://github.com/frankys99))
+-  **APIs**:
+    - [https://sos2021-07.herokuapp.com/api/v1/rentals](https://sos2021-07.herokuapp.com/api/v1/rentals) (developed by [Francisco Miguel Tristán Clavijo](https://github.com/frankys99))
 
 ## SOS2021-23
 
