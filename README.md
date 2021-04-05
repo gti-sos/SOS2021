@@ -208,7 +208,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
 - URL: https://sos2021-07.herokuapp.com/
 -  APIs:
-    [https://sos2021-28.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-07.herokuapp.com/api/v1/rentals) (developed by [Francisco Miguel Tristán Clavijo](https://github.com/frankys99))
+    [https://sos2021-07.herokuapp.com/api/v1/rentals](https://sos2021-07.herokuapp.com/api/v1/rentals) (developed by [Francisco Miguel Tristán Clavijo](https://github.com/frankys99))
 
 ## SOS2021-23
 
