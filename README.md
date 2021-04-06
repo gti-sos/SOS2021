@@ -209,6 +209,9 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - URL: https://sos2021-07.herokuapp.com/
 -  **APIs**:
     - [https://sos2021-07.herokuapp.com/api/v1/rentals](https://sos2021-07.herokuapp.com/api/v1/rentals) (developed by [Francisco Miguel Tristán Clavijo](https://github.com/frankys99))
+    - [https://sos2021-07.herokuapp.com/api/v1/unemployment](https://sos2021-07.herokuapp.com/api/v1/unemployment) (developed by [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole))
+    - [https://sos2021-07.herokuapp.com/api/v1/buy_sell](https://sos2021-07.herokuapp.com/api/v1/buy_sell) (developed by [Nuria Escamilla Torres](https://github.com/nuresctor))
+
 
 ## SOS2021-23
 
