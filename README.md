@@ -188,7 +188,6 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Antonio Silva Gordillo](https://github.com/antoniosilva096)
 - *Project description*: Proyecto con datos y estadísticas del COVID-19 a nivel mundial.
 - *Repository*: [gti-sos/SOS2021-08](https://github.com/gti-sos/SOS2021-08)
-- *URL*: https://github.com/gti-sos/SOS2021-08
 -  *APIs*:
 	-  [https://sos2021-08.herokuapp.com/api/v1/covid19-tracking-germany](https://sos2021-08.herokuapp.com/api/v1/covid19-tracking-germany) (developed by [Antonio Silva Gordillo](https://github.com/antoniosilva096))
 	-  [https://sos2021-08.herokuapp.com/api/v1/us_counties_covid19_daily](https://sos2021-08.herokuapp.com/api/v1/us_counties_covid19_daily) (developed by [Antonio Carranza Barroso](https://github.com/carran97))
