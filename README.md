@@ -301,13 +301,15 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Jorge Marin Cordero](https://github.com/JorgeMarinC)
   - [Alvaro Caro Jimenez](https://github.com/alvcarjim1)
   - [Jesús Guerra Adame](https://github.com/jesgueada)
-- **Project description**: My awesome project
+- **Project description**: Our project looks for the relationships between the renewable power production capacities, the greenhouse gases
+    emissions and the sources of the founds destinated to research.
 - **Repository**: [gti-sos/SOS2021-20](https://github.com/gti-sos/SOS2021-20)
 - **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos2021-20.herokuapp.com/api/v1/foundsresearchsources-stats](https://sos2021-20.herokuapp.com/api/v1/foundsresearchsources-stats) (developed by [Jorge Marín Cordero](https://github.com/JorgeMarinC)<a
+        href="https://documenter.getpostman.com/view/15070037/TzJsfdKV"> Documentation</a>)
+    - [http://sos2021-20.herokuapp.com/api/v1/renewablepowercapacities-stats](http://sos2021-20.herokuapp.com/api/v1/renewablepowercapacities-stats) (developed by [Alvaro Caro Jiménez](https://github.com/alvcarjim1) <a href="https://documenter.getpostman.com/view/15467208/TzJuAdf1"> Documentation</a>)
+    - [https://sos2021-20.herokuapp.com/api/v1/greenhousegasemissions-stats](https://sos2021-20.herokuapp.com/api/v1/greenhousegasemissions-stats) (developed by [Jesús Guerra Adame](https://github.com/jesgueada) <a href="https://documenter.getpostman.com/view/14978263/TzJu8wiQ"> Documentation</a>)
 
 
  ## SOS2021-06
