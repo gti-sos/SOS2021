@@ -35,7 +35,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 -  **APIs**:
     - [https://sos2021-01.herokuapp.com/api/v1/divorce/docs](https://sos2021-01.herokuapp.com/api/v1/divorce/docs) (developed by [Juan Buitrago Ruiz](https://github.com/19juaniyo99))
     - [https://sos2021-01.herokuapp.com/api/v1/life/docs](https://sos2021-01.herokuapp.com/api/v1/life/docs) (developed by [Lucia Castro Perez](https://github.com/404))
-    - [https://sos2021-01.herokuapp.com/api/v1/natality/docs](https://sos2021-01.herokuapp.com/api/v1/natality/docs) (developed by [Abraham Corta Ramírez](https://github.com/AbramsM1A2))
+    - ~~[Natality-stats v1](https://sos2021-01.herokuapp.com/api/v1/natality-stats) | [Postman documentation v1](https://documenter.getpostman.com/view/14932491/TzJrCzRM)~~ | [Natality-stats v2](https://sos2021-01.herokuapp.com/api/v2/natality-stats) | [Postman documentation v2](https://documenter.getpostman.com/view/14932491/TzRSg7GK)  (developed by [Abraham Corta Ramírez](https://github.com/AbramsM1A2))
 
 # SOS2021-22
 - **Team**
