@@ -57,11 +57,11 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Alicia Pérez Bolaños](https://github.com/aliperbol)
 - **Project description**: Analysis of the relation between the obesity, the consumption of different types of food and the global health service.
 - **Repository** [gti-sos/SOS2021-10](https://github.com/gti-sos/SOS2021-10) 
-- **URL**: http://sos2021-10.herokuapp.com
+- **URL**: [http://sos2021-10.herokuapp.com](http://sos2021-10.herokuapp.com)
 - **APIs**:
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-1/docs (developed by Antonio José Díaz González)
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-2/docs (developed by Almudena González López de Letona)
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Alicia Pérez Bolaños)
+  - [https://sos2021-10.herokuapp.com/api/v1/sanity-stats]( https://sos2021-10.herokuapp.com/api/v1/sanity-stats) (developed by Antonio José Díaz González)
+  - [https://sos2021-10.herokuapp.com/api/v1/obesity-stats](https://sos2021-10.herokuapp.com/api/v1/obesity-stats) (developed by Almudena González López de Letona)
+  - [https://sos2021-10.herokuapp.com/api/v1/foodconsumption-stats](https://sos2021-10.herokuapp.com/api/v1/foodconsumption-stats) (developed by Alicia Pérez Bolaños)
  
 ## SOS2021-09
 - **Team**
