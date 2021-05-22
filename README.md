@@ -46,9 +46,9 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Repository** [gti-sos/SOS2021-22](https://github.com/gti-sos/SOS2021) 
 - **URL**: http://sos2021-22.herokuapp.com
 - **APIs**:
-  - https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs (developed by Jose Mª González Rodríguez)
-  - https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs (developed by Manuel Segura Rodríguez)
-  - https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Antonio Parra Diaz)
+  - https://sos2021-22.herokuapp.com/api/v2/grmys (developed by Jose Mª González Rodríguez)
+  - https://sos2021-22.herokuapp.com/api/v2/richpp (developed by Manuel Segura Rodríguez)
+  - https://sos2021-22.herokuapp.com/api/v1/paawards (developed by Antonio Parra Diaz)
   
 # SOS2021-10
 - **Team**
