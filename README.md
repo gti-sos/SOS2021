@@ -27,7 +27,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
   - [Juan Buitrago Ruiz](https://github.com/19juaniyo99)
-  - [Lucia Castro Perez]()
+  - [Lucia Castro Perez](https://github.com/Lucia2712)
   - [Abraham Corta Ramirez](https://github.com/AbramsM1A2) 
 - **Project description**: Global analysis of the years 2018-2019 and the existing relationship between: the number of births, divorce rate and quality of life per citizen.
 - **Repository**: [gti-sos/SOS2021-01]( https://github.com/gti-sos/SOS2021-01 )
@@ -35,7 +35,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 -  **APIs**:
     - [https://sos2021-01.herokuapp.com/api/v1/divorce/docs](https://sos2021-01.herokuapp.com/api/v1/divorce/docs) (developed by [Juan Buitrago Ruiz](https://github.com/19juaniyo99))
     - [https://sos2021-01.herokuapp.com/api/v1/life/docs](https://sos2021-01.herokuapp.com/api/v1/life/docs) (developed by [Lucia Castro Perez](https://github.com/404))
-    - [https://sos2021-01.herokuapp.com/api/v1/natality/docs](https://sos2021-01.herokuapp.com/api/v1/natality/docs) (developed by [Abraham Corta Ramírez](https://github.com/AbramsM1A2))
+    - ~~[Natality-stats v1](https://sos2021-01.herokuapp.com/api/v1/natality-stats) | [Postman documentation v1](https://documenter.getpostman.com/view/14932491/TzJrCzRM)~~ | [Natality-stats v2](https://sos2021-01.herokuapp.com/api/v2/natality-stats) | [Postman documentation v2](https://documenter.getpostman.com/view/14932491/TzRSg7GK)  (developed by [Abraham Corta Ramírez](https://github.com/AbramsM1A2))
 
 # SOS2021-22
 - **Team**
@@ -44,11 +44,11 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Antonio Parra Diaz](https://github.com/antonioparra7)
 - **Project description**: Grupos de musica con mas grammys en la historia de los premios
 - **Repository** [gti-sos/SOS2021-22](https://github.com/gti-sos/SOS2021) 
-- **URL**: http://sos2021-00.herokuapp.com
+- **URL**: http://sos2021-22.herokuapp.com
 - **APIs**:
-  - https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs (developed by Jose Mª González Rodríguez)
-  - https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs (developed by Manuel Segura Rodríguez)
-  - https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Antonio Parra Diaz)
+  - https://sos2021-22.herokuapp.com/api/v2/grmys (developed by Jose Mª González Rodríguez)
+  - https://sos2021-22.herokuapp.com/api/v2/richpp (developed by Manuel Segura Rodríguez)
+  - https://sos2021-22.herokuapp.com/api/v1/paawards (developed by Antonio Parra Diaz)
   
 # SOS2021-10
 - **Team**
@@ -57,11 +57,11 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Alicia Pérez Bolaños](https://github.com/aliperbol)
 - **Project description**: Analysis of the relation between the obesity, the consumption of different types of food and the global health service.
 - **Repository** [gti-sos/SOS2021-10](https://github.com/gti-sos/SOS2021-10) 
-- **URL**: http://sos2021-10.herokuapp.com
+- **URL**: [http://sos2021-10.herokuapp.com](http://sos2021-10.herokuapp.com)
 - **APIs**:
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-1/docs (developed by Antonio José Díaz González)
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-2/docs (developed by Almudena González López de Letona)
-  - https://sos2021-10.herokuapp.com/api/v1/my-awesome-resource-3/docs (developed by Alicia Pérez Bolaños)
+  - [https://sos2021-10.herokuapp.com/api/v1/sanity-stats]( https://sos2021-10.herokuapp.com/api/v1/sanity-stats) (developed by Antonio José Díaz González)
+  - [https://sos2021-10.herokuapp.com/api/v1/obesity-stats](https://sos2021-10.herokuapp.com/api/v1/obesity-stats) (developed by Almudena González López de Letona)
+  - [https://sos2021-10.herokuapp.com/api/v1/foodconsumption-stats](https://sos2021-10.herokuapp.com/api/v1/foodconsumption-stats) (developed by Alicia Pérez Bolaños)
  
 ## SOS2021-09
 - **Team**
@@ -74,10 +74,10 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **URL**: [http://sos2021-09.herokuapp.com](http://sos2021-09.herokuapp.com)
 
 -  **APIs**:
-    - [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Adrian Roman Fernandez](https://github.com/Adrirofer))
-    - [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Francisco José Fernández Blanco](https://github.com/franfdezb))
+    - [https://sos2021-09.herokuapp.com/api/v1/budgets-by-centers-us/docs](https://sos2021-09.herokuapp.com/api/v1/budgets-by-centers-us/loadInitialData) (developed by [Adrian Roman Fernandez](https://github.com/Adrirofer))
+    - [https://sos2021-09.herokuapp.com/api/v1/cut-off-marks-by-degrees-us/docs](https://sos2021-09.herokuapp.com/api/v1/cut-off-marks-by-degrees-us/loadInitialData) (developed by [Francisco José Fernández Blanco](https://github.com/franfdezb))
     - [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Carlos González Arenas](https://github.com/cargonare1))
-	- [https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-09.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Daniel Sesé Benjumea](https://github.com/Wocanilo))
+	- [https://sos2021-09.herokuapp.com/api/v1/performances-by-degrees-us/docs](https://sos2021-09.herokuapp.com/api/v1/performances-by-degrees-us/loadInitialData) (developed by [Daniel Sesé Benjumea](https://github.com/Wocanilo))
 
 ## SOS2021-04
 
@@ -103,7 +103,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Repository**: [gti-sos/SOS2021-24](https://github.com/gti-sos/SOS2021-24)
 - **URL**: [http://sos2021-24.herokuapp.com](http://sos2021-24.herokuapp.com)
 - **APIs**:
-    - [https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Enrique Luque García](https://github.com/enrike7lg))
+    - [https://sos2021-24.herokuapp.com/api/v1/children-out-school](https://sos2021-24.herokuapp.com/api/v1/children-out-school) (developed by [Enrique Luque García](https://github.com/enrike7lg))
     - [https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Francisco Javier Macero Vázquez](https://github.com/framacvaz))
     - [https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-24.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Ignacio Roldán Torres](https://github.com/juaroltor))
 
@@ -120,6 +120,25 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ))
     - [https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Antonio Javier Palma Guerrero](https://github.com/ajpalma28))
     - [https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-25.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [José María de Soto Oncins](https://github.com/PepeDeSoto))
+
+## SOS2021-26
+
+- **Team**
+  - [Jose María Maya Cano](https://github.com/josemarimaya)
+  - [Mateo Serna Giraldo](https://github.com/keffren)
+  - [Darío López Villegas](https://github.com/darlopvil)
+- **Project description**: Our sources are aimed to analyzing the balance of losses, profits and investment in the following areas: 
+    - Film industry 
+    - Hotel and catering trade
+    - Air routes
+- **Repository**: [gti-sos/SOS2021-26](https://github.com/gti-sos/SOS2021-26)
+- **URL**: [gti-sos/SOS2021-26](https://sos2021-26.herokuapp.com/)
+-  **APIs**:
+    - [https://sos2021-26.herokuapp.com/api/v1/culturaBASE/](https://sos2021-26.herokuapp.com/api/v1/culturaBASE/) (developed by [José María Maya Cano](https://github.com/josemarimaya))
+    - [https://sos2021-26.herokuapp.com/api/v1/air-routes/](https://sos2021-26.herokuapp.com/api/v1/air-routes/) (developed by [Darío López Villegas](https://github.com/darlopvil))
+    - [https://sos2021-26.herokuapp.com/api/v1/hostelry/](https://sos2021-26.herokuapp.com/api/v1/hostelry/) (developed by [Mateo Serna Giraldo](https://github.com/keffren))
+
+
 ## SOS2021-28
 
 - **Team**
@@ -143,9 +162,9 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Repository**: [gti-sos/SOS2021-02](https://github.com/gti-sos/SOS2021-02)
 - **URL**: [http://sos2021-02.herokuapp.com](http://sos2021-02.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Manuel González Domínguez](https://github.com/jgonzalezal37))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Fernandez Baena](https://github.com/alefdz98))
+    - [https://sos2021-02.herokuapp.com/api/v1/nuts-production-stats](https://sos2021-02.herokuapp.com/api/v1/nuts-production-stats) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
+    - [https://sos2021-02.herokuapp.com/api/v1/oil-production-stats](https://sos2021-02.herokuapp.com/api/v1/oil-production-stats) (developed by [José Manuel González Domínguez](https://github.com/jgonzalezal37))
+    - [https://sos2021-02.herokuapp.com/api/v1/wine-production-stats](https://sos2021-02.herokuapp.com/api/v1/wine-production-stats) (developed by [Alejandro Fernandez Baena](https://github.com/alefdz98))
 	
 ## SOS1920-03
 
@@ -163,14 +182,16 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 	
     ## SOS2021-08
 
-- **Team**
+- *Team*
   - [Juan Vega Seco](https://github.com/jhonvi2)
   - [Antonio Carranza Barroso](https://github.com/carran97)
   - [Antonio Silva Gordillo](https://github.com/antoniosilva096)
-- **Project description**: Proyecto con datos y estadísticas del COVID-19 a nivel mundial.
-- **Repository**: [gti-sos/SOS2021-08](https://github.com/gti-sos/SOS2021-08)
-- **URL**: 
--  **APIs**:
+- *Project description*: Proyecto con datos y estadísticas del COVID-19 a nivel mundial.
+- *Repository*: [gti-sos/SOS2021-08](https://github.com/gti-sos/SOS2021-08)
+-  *APIs*:
+	-  [https://sos2021-08.herokuapp.com/api/v1/covid19-tracking-germany](https://sos2021-08.herokuapp.com/api/v1/covid19-tracking-germany) (developed by [Antonio Silva Gordillo](https://github.com/antoniosilva096))
+	-  [https://sos2021-08.herokuapp.com/api/v1/us_counties_covid19_daily](https://sos2021-08.herokuapp.com/api/v1/us_counties_covid19_daily) (developed by [Antonio Carranza Barroso](https://github.com/carran97))
+	-  [https://sos2021-08.herokuapp.com/api/v1/statewisetestingdetails](https://sos2021-08.herokuapp.com/api/v1/statewisetestingdetails) (developed by [Juan Vega Seco](https://github.com/jhonvi2))
 
 ## SOS2021-21
 - **Team**
@@ -204,10 +225,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
   - [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
   - [Nuria Escamilla Torres](https://github.com/nuresctor)
-- Project description:  relationship of poor health habits that have unfortunately led to obesity, with the existence of bipolar or depressive moods and performance at work.
+- Project description:  Our intention is to relate the purchase and sale of housing with the rental prices in the different locations and their relationship with unemployment to see how the increase in unemployment affects the price and situation of the other two data variables.
 - Repository: [gti-sos/SOS2021-07](https://github.com/gti-sos/SOS2021-07)
-- URL: 
--  APIs:
+- URL: https://sos2021-07.herokuapp.com/
+-  **APIs**:
+    - [https://sos2021-07.herokuapp.com/api/v1/rentals](https://sos2021-07.herokuapp.com/api/v1/rentals) (developed by [Francisco Miguel Tristán Clavijo](https://github.com/frankys99))
+    - [https://sos2021-07.herokuapp.com/api/v1/unemployment](https://sos2021-07.herokuapp.com/api/v1/unemployment) (developed by [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole))
+    - [https://sos2021-07.herokuapp.com/api/v1/buy_sell](https://sos2021-07.herokuapp.com/api/v1/buy_sell) (developed by [Nuria Escamilla Torres](https://github.com/nuresctor))
+
 
 ## SOS2021-23
 
@@ -216,14 +241,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [José Carlos Torres](https://github.com/secaasecas)
   - [Antonio Maiquez Marin](https://github.com/Jackman97)
   - [Eduardo Carmona](https://github.com/Beelthazad)
-- **Project description**: Our aim is to analyze the relationship between drug use, videogame use, mental health & unemployment at a global scale.
+- **Project description**: Our aim is to analyze the relationship between drug use,HDI, mental health & unemployment at a global scale.
 - **Repository**: [gti-sos/SOS2021-23](https://github.com/gti-sos/SOS2021-23)
 - **URL**: [http://sos2021-23.herokuapp.com](http://sos2021-23.herokuapp.com)
 -  **APIs**:
     - [https://sos2021-23.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio Corpas Espinar](https://github.com/ace58))
     - [https://sos2021-23.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Carlos Torres](https://github.com/secaasecas))
     - [https://sos2021-23.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Antonio Maiquez Marin](https://github.com/Jackman97))
-    - [https://sos2021-23.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Eduardo Carmona](https://github.com/Beelthazad))
+    - [https://sos2021-23.herokuapp.com/api/v1/mh-stats/docs](https://sos2021-00.herokuapp.com/api/v1/mh-stats/docs) (developed by [Eduardo Carmona](https://github.com/Beelthazad))
 	
 ## SOS2021-11
 
@@ -236,10 +261,10 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Repository**: [gti-sos/SOS2021-11](https://github.com/gti-sos/SOS2021-11)
 - **URL**: [http://sos2021-11.herokuapp.com](http://sos2021-11.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Ana Romero Caceres](https://github.com/anaromero99))
-    - [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Jose Pablo Carrasco Cobos](https://github.com/EsDeSepa))
-    - [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Juan Diez Blanco](https://github.com/jdblanco))
-	- [https://sos2021-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-11.herokuapp.com/api/v1/medical-conditions/docs) (developed by [Miriam Campano Crespo](https://github.com/Mirishya))
+    - [https://sos2021-11.herokuapp.com/api/v1/stress-stats](https://sos2021-11.herokuapp.com/api/v1/stress-stats) (developed by [Ana Romero Caceres](https://github.com/anaromero99))
+    - [https://sos2021-11.herokuapp.com/api/v1/anxiety-stats](https://sos2021-11.herokuapp.com/api/v1/anxiety) (developed by [Jose Pablo Carrasco Cobos](https://github.com/EsDeSepa))
+    - [https://sos2021-11.herokuapp.com/api/v1/depression-stats](https://sos2021-11.herokuapp.com/api/v1/depression-stats) (developed by [Juan Diez Blanco](https://github.com/jdblanco))
+	- [https://sos2021-11.herokuapp.com/api/v1/smoking-stats](https://sos2021-11.herokuapp.com/api/v1/smoking-stats) (developed by [Miriam Campano Crespo](https://github.com/Mirishya))
 	 
 ## SOS2021-30
 
@@ -276,13 +301,15 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Jorge Marin Cordero](https://github.com/JorgeMarinC)
   - [Alvaro Caro Jimenez](https://github.com/alvcarjim1)
   - [Jesús Guerra Adame](https://github.com/jesgueada)
-- **Project description**: My awesome project
+- **Project description**: Our project looks for the relationships between the renewable power production capacities, the greenhouse gases
+    emissions and the sources of the founds destinated to research.
 - **Repository**: [gti-sos/SOS2021-20](https://github.com/gti-sos/SOS2021-20)
 - **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos2021-20.herokuapp.com/api/v1/foundsresearchsources-stats](https://sos2021-20.herokuapp.com/api/v1/foundsresearchsources-stats) (developed by [Jorge Marín Cordero](https://github.com/JorgeMarinC)<a
+        href="https://documenter.getpostman.com/view/15070037/TzJsfdKV"> Documentation</a>)
+    - [http://sos2021-20.herokuapp.com/api/v1/renewablepowercapacities-stats](http://sos2021-20.herokuapp.com/api/v1/renewablepowercapacities-stats) (developed by [Alvaro Caro Jiménez](https://github.com/alvcarjim1) <a href="https://documenter.getpostman.com/view/15467208/TzJuAdf1"> Documentation</a>)
+    - [https://sos2021-20.herokuapp.com/api/v1/greenhousegasemissions-stats](https://sos2021-20.herokuapp.com/api/v1/greenhousegasemissions-stats) (developed by [Jesús Guerra Adame](https://github.com/jesgueada) <a href="https://documenter.getpostman.com/view/14978263/TzJu8wiQ"> Documentation</a>)
 
 
  ## SOS2021-06
@@ -298,3 +325,14 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-06.herokuapp.com/api/v1/streaming-stats](https://sos2021-06.herokuapp.com/api/v1/streaming-stats) (developed by [Gonzalo Camacho Pérez de Sevilla](https://github.com/Goncamper))
     - [https://sos2021-06.herokuapp.com/api/v1/onlinemedia-stats](https://sos2021-06.herokuapp.com/api/v1/onlinemedia-stats) (developed by [Salvador Romero Merino](https://github.com/SalvadorRomMer))
     - [https://sos2021-06.herokuapp.com/api/v1/television-stats](https://sos2021-06.herokuapp.com/api/v1/television-stats) (developed by [Daniel Gallardo Carrión](https://github.com/dangalcar))
+## SOS2021-29
+
+- **Team**
+  - [Jose Luis Ruiz Monge](https://github.com/celu)
+  - [Jose Felipe Ramos Molinero](https://github.com/jfeliperamos)
+  - [Bruno Alvaro Rico Barrilero](https://github.com/brico1994)
+- **Project description**: Our target is to focus on analyzing the relationship between deaths by different diseases, employment activity and behavior of the housing market in the different provinces of Andalusia between the years of 2005-2018.
+- **Repository**: [gti-sos/SOS2021-29](https://github.com/gti-sos/SOS2021-29)
+- **URL**: 
+-  **APIs**:
+>>>>>>> 1d18404c9f88937ba061e3f4a50c381d714314f4
