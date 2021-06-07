@@ -313,7 +313,7 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **Project description**: Our project looks for the relationships between the renewable power production capacities, the greenhouse gases
     emissions and the sources of the founds destinated to research.
 - **Repository**: [gti-sos/SOS2021-20](https://github.com/gti-sos/SOS2021-20)
-- **URL**: [http://sos2021-00.herokuapp.com](http://sos2021-00.herokuapp.com)
+- **URL**: [http://sos2021-20.herokuapp.com](http://sos2021-20.herokuapp.com)
 -  **APIs**:
 
  <li>Api link: <a
