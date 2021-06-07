@@ -297,8 +297,12 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [José Antonio Megías Macías](https://github.com/josanmegias)
 - **Project description**: Research on attacks, homicides caused by guns and firearms sold in recent years in the US
 - **Repository**: [gti-sos/SOS2021-05](https://github.com/gti-sos/SOS2021-05)
-- **URL**: 
-- **APIs**:TBD
+- **URL**:  [Heroku SOS2021-05](http://sos2021-05.herokuapp.com/)
+- **APIs**:
+   - [http://sos2021-05.herokuapp.com/api/v2/homicides-by-firearms](http://sos2021-05.herokuapp.com/api/v2/homicides-by-firearms) (developed by [Iván Martín Jiménez](https://github.com/ivanmartinsk))See how to use it in the [Postman Documentation Portal V1](https://documenter.getpostman.com/view/14948327/TzJsfdKb)/[Postman Documentation Portal V2](https://documenter.getpostman.com/view/14948327/TzJydbLX)
+   - [http://sos2021-05.herokuapp.com/api/v2/arms-sales-stats](http://sos2021-05.herokuapp.com/api/v2/arms-sales-stats) (developed by [Manuel Sánchez López](https://github.com/manu261998)) See how to use it in the [Postman Documentation Portal V1](https://documenter.getpostman.com/view/14942846/TzJrCewR)/[Postman Documentation Portal V2](https://documenter.getpostman.com/view/14942846/TzJydbG4)
+
+   - [http://sos2021-05.herokuapp.com/api/v2/attacks-stats](http://sos2021-05.herokuapp.com/api/v2/attacks-stats) (developed by [José Antonio Megías Macías](https://github.com/josanmegias)) See how to use it in the [Postman Documentation Portal V1](https://documenter.getpostman.com/view/14948357/TzJsfdFD)/[Postman Documentation Portal V2](https://documenter.getpostman.com/view/14948357/TzJydbLY)
  
  ## SOS2021-20
 
