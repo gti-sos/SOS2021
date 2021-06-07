@@ -213,15 +213,20 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
   - [Humberto Garcia Martinez](https://github.com/humgarmar)
   - [Javier Garcia Herrera](https://github.com/Jota0Garcia)
   - [Fernando Nuevo Jiménez](https://github.com/FerNueJim)
-- **Project description**:  Analyze the economic situation of the population from the different Spanish provinces in order to achieve a relationship between this economic 		situation and the evolution of gambling.
+- **Project description**:  Analyze the economic situation of the population from the different Spanish provinces in order to achieve a relationship between this economic situation and the evolution of gambling.
 
-	En nuestro grupo analizaremos la situación económica de los habitantes en diferentes provincias españolas con el objetivo de poder relacionar este factor con la 		evolución en la actividad de juegos de azar y apuestas ¿aumentan o disminuyen según el nivel económico, se apuesta más cantidad o menos? y con el nivel de suicidios, 		donde la participación en las apuestas puede ser un factor clave para estos.
 - **Repository**: [gti-sos/SOS2021-27](https://github.com/gti-sos/SOS2021-27)
 - **URL**: [http://sos2021-27.herokuapp.com](http://sos2021-27.herokuapp.com)
 -  **APIs**:
-    - [https://sos2021-27.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Humberto Garcia](https://github.com/humgarmar))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Javier García Herrera](https://github.com/Jota0Garcia))
-    - [https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos2021-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Fernando Nuevo Jiménez](https://github.com/FerNueJim))
+    - [https://sos2021-27.herokuapp.com/api/v2/azar-games-and-bet-activities](https://sos2021-27.herokuapp.com/api/v2/azar-games-and-bet-activities) (developed by [Humberto Garcia](https://github.com/humgarmar))
+    - [http://sos2021-27.herokuapp.com/api/v2/suicide-records](http://sos2021-27.herokuapp.com/api/v2/suicide-records) (developed by [Javier García Herrera](https://github.com/Jota0Garcia))
+    - [https://sos2021-27.herokuapp.com/api/v2/province-budget-and-investment-in-social-promotion](https://sos2021-27.herokuapp.com/api/v2/province-budget-and-investment-in-social-promotion) (developed by [Fernando Nuevo Jiménez](https://github.com/FerNueJim))
+
+-  **Postman Doc**:
+    - [Postman Documentation Portal V2 Suicide-Records](https://documenter.getpostman.com/view/14951327/TzRSh81n)
+    - [Postman Documentation Portal V2 Budgets-Investment](https://documenter.getpostman.com/view/14982196/TzRSgn9j)
+    - [Postman Documentation Portal V2 Budgets-Investment](https://documenter.getpostman.com/view/14949428/TzRSiTnf)
+
 
 
 ## SOS2021-07
