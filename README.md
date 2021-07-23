@@ -356,10 +356,18 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 
 - **Team**
   - [Jose Luis Ruiz Monge](https://github.com/celu)
-  - [Jose Felipe Ramos Molinero](https://github.com/jfeliperamos)
-  - [Bruno Alvaro Rico Barrilero](https://github.com/brico1994)
+  - [Jose Felipe R/amos Molinero](https://github.com/jfeliperamos)
+  - [Bruno Alvaro Rico Barrilero](https://github.combrico1994)
 - **Project description**: Our target is to focus on analyzing the relationship between deaths by different diseases, employment activity and behavior of the housing market in the different provinces of Andalusia between the years of 2005-2018.
 - **Repository**: [gti-sos/SOS2021-29](https://github.com/gti-sos/SOS2021-29)
 - **URL**: 
 -  **APIs**:
->>>>>>> 1d18404c9f88937ba061e3f4a50c381d714314f4
+
+# SOS2021-sep-arc
+
+- **Developer**
+  - [Ana Romero Caceres](https://github.com/anaromero99)
+  
+- **Project description**: My information is about analyzing pathological diseases by provinces in Spain.
+- **Repository**: [gti-sos/sos2021-sep-arc](https://github.com/gti-sos/sos2021-sep-arc)
+- **URL**: [https://sos2021-sep-arc.herokuapp.com](https://sos2021-sep-arc.herokuapp.com)
