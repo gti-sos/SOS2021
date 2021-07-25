@@ -373,8 +373,8 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
 - **URL**: [https://sos2021-sep-arc.herokuapp.com](https://sos2021-sep-arc.herokuapp.com)
 - **APIs**: [https://sos2021-sep-arc.herokuapp.com/api/v1/schizophrenia-stats](https://sos2021-sep-arc.herokuapp.com/api/v1/schizophrenia-stats)
 - **Postman** 
-   -[https://documenter.getpostman.com/view/14948110/TzsZrUB1] Postman documentation v1
-   -[https://documenter.getpostman.com/view/14948110/TzsZroMB] Postman documentation D01
+  - [https://documenter.getpostman.com/view/14948110/TzsZrUB1] Postman documentation v1
+  - [https://documenter.getpostman.com/view/14948110/TzsZroMB] Postman documentation D01
 
 ## sos2021-sep-mcc
 
