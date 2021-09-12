@@ -440,3 +440,20 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://SOS2021-sep-JPCC.herokuapp.com/api/v2/anxiety_stats](https://SOS2021-sep-JPCC.herokuapp.com/api/v2/anxiety_stats) (developed by [Jose Pablo Carrasco Cobos](https://github.com/EsDeSepa))
 
 - **POSTMAN (V2)**: [https://documenter.getpostman.com/view/14948159/U16kr5WQ] (Enlace a la Documentación de Postman)
+
+
+# SOS2021-sep-jdb
+
+
+- **Developer**
+  
+  - [Juan Diez Blanco](https://github.com/jdblanco)
+  
+- **Project description**: Busco monstras los datos de la depresion en españa durante los ultimos tiempos
+- **Repository**: [gti-sos/SOS2021-sep-jdb](https://github.com/gti-sos/SOS2021-sep-jdb)
+- **URL**: [http://sos2021-sep-jdb.herokuapp.com](http://sos2021-sep-jdb.herokuapp.com)
+-  **APIs**:
+    
+    - [https://sos2021-sep-jdb.herokuapp.com/api/integrations/depression_stats](http://sos2021-sep-jdb.herokuapp.com/api/integrations/depression_stats) (developed by [Juan Diez Blanco](https://github.com/jdblanco))
+	 
+
