@@ -457,3 +457,18 @@ List of projects registered in the course of **Service Oriented Systems** (2020/
     - [https://sos2021-sep-jdb.herokuapp.com/api/integrations/depression_stats](http://sos2021-sep-jdb.herokuapp.com/api/integrations/depression_stats) (developed by [Juan Diez Blanco](https://github.com/jdblanco))
 	 
 
+
+
+# SOS2021-dic-jdb
+
+
+- **Developer**
+  
+  - [Juan Diez Blanco](https://github.com/jdblanco)
+  
+- **Project description**: Busco monstras los datos de la depresion en españa durante los ultimos tiempos
+- **Repository**: [gti-sos/SOS2021-dic-jdb](https://github.com/gti-sos/SOS2021-dic-jdb)
+- **URL**: 
+-  **APIs**:
+    
+    - 
